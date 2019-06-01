@@ -1,4 +1,11 @@
-# README
+# User db api __ POC
+
+I am refreshing myself in Rubyland by creating a user db api to be used in the context of mircroservices.
+
+using:
+  - docker
+  - Ruby on Rails
+  - Postgresql
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
